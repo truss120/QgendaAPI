@@ -1,0 +1,15 @@
+<entry xmlns="http://www.w3.org/2005/Atom">
+    <author>
+        <name>BCMAdmin</name>
+        <uri>http://baybipa01.ad.bcm.edu:6405/biprws/infostore/4660356</uri>
+    </author>
+    <id>tag:sap.com,2010:bip-rs/FoL7BF7JjQkAm.EBAAAHEAQoAA06bQLV/scheduleForms/now</id>
+    <title type="text">Schedule ONBOARDING_REPORT_PSOA-API now</title>
+    <updated>2019-12-26T18:29:02.944Z</updated>
+    <content type="application/xml">
+        <attrs xmlns="http://www.sap.com/rws/bip">
+            <attr name="retriesAllowed" type="int32">0</attr>
+            <attr name="retryIntervalInSeconds" type="int32">1800</attr>
+        </attrs>
+    </content>
+</entry>
